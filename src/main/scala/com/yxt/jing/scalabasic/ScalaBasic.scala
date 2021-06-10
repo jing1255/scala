@@ -27,6 +27,9 @@ object ScalaBasic {
 
     println(s"sql=$sql")
 
+    val double = 2.1d
+    println(double)
+
   }
 
 }
